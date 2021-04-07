@@ -18,3 +18,8 @@ Thus facilitating more open research from within the Turing and further collabor
 ## The Team
 
 For more information on who the team are and how to get in contact with them, please see the [ways of working document](WAYS_OF_WORKING.md).
+
+## Licence
+
+This work is licenced under CC-BY 4.0.
+Please see the [`LICENCE`](./LICENCE) file for more information.
