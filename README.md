@@ -22,4 +22,4 @@ For more information on who the team are and how to get in contact with them, pl
 ## License
 
 This work is licensed under CC-BY 4.0.
-Please see the [`LICENSE`](./LICENSE) file for more information.
+Please see the [`LICENSE`](LICENSE.md) file for more information.
