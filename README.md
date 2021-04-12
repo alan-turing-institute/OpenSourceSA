@@ -6,6 +6,8 @@ A service area serving the Turing research community to facilitate open research
 
 - [Vision Statement](#vision-statement)
 - [The Team](#the-team)
+- [Roadmap](#roadmap)
+- [License](#license)
 
 ---
 
@@ -18,6 +20,13 @@ Thus facilitating more open research from within the Turing and further collabor
 ## The Team
 
 For more information on who the team are and how to get in contact with them, please see the [ways of working document](WAYS_OF_WORKING.md).
+
+## Roadmap
+
+You can find the roadmap outlining the long- and short-term goals of the project in the [`ROADMAP.md`](ROADMAP.md) file.
+
+- **Current project phase:** :one:
+- **Current project planning board:** [Phase 1: User Research Roadmap](https://github.com/alan-turing-institute/OpenSourceSA/projects/1)
 
 ## License
 
