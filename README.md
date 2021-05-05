@@ -61,6 +61,7 @@ You can find the roadmap outlining the long- and short-term goals of the project
 Other project management documentation includes:
 
 - [The project proposal](project_mgmt/proposal.md)
+- [The project open canvas](project_mgmt/open_canvas.pdf)
 - [Our Ways of Working](WAYS_OF_WORKING.md)
 - [Our Code of Conduct](CODE_OF_CONDUCT.md)
 
