@@ -10,7 +10,7 @@ This README is a hub to give you some information about what the service area ho
 - [The Team](#the-team)
 - [What do we need?](#what-do-we-need)
 - [Get involved](#get-involved)
-- [Roadmap](#roadmap)
+- [Find out more](#find-out-more)
 - [License](#license)
 
 ---
@@ -51,12 +51,19 @@ If you think you can help in any of the [areas described above](#what-do-we-need
 Please note that it is very important to us that we maintain a positive and supportive environment for everyone who wants to participate.
 When you join us, we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
-## Roadmap
+## Find out more
 
 You can find the roadmap outlining the long- and short-term goals of the project in the [`ROADMAP.md`](ROADMAP.md) file.
 
 - **Current project phase:** :one:
 - **Current project planning board:** [Phase 1: User Research Roadmap](https://github.com/alan-turing-institute/OpenSourceSA/projects/1)
+
+Other project management documentation includes:
+
+- [The project proposal](project_mgmt/proposal.md)
+- [The project open canvas](project_mgmt/open_canvas.pdf)
+- [Our Ways of Working](WAYS_OF_WORKING.md)
+- [Our Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## License
 
