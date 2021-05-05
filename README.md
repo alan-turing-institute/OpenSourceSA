@@ -11,6 +11,7 @@ This README is a hub to give you some information about what the service area ho
 - [What do we need?](#what-do-we-need)
 - [Get involved](#get-involved)
 - [Find out more](#find-out-more)
+- [Repository Structure](#respository-structure)
 - [License](#license)
 
 ---
@@ -64,6 +65,11 @@ Other project management documentation includes:
 - [The project open canvas](project_mgmt/open_canvas.pdf)
 - [Our Ways of Working](WAYS_OF_WORKING.md)
 - [Our Code of Conduct](CODE_OF_CONDUCT.md)
+
+## Respository Structure
+
+- You will find documents relating to project management in the [`project_mgmt` folder](./project_mgmt)
+- Any templates or documentation resources are located in the [`project_dev_docs` folder](./project_dev_docs), which is then broken down by phase according to the [roadmap](ROADMAP.md)
 
 ## License
 
