@@ -47,7 +47,7 @@ And lastly, any valuable expertise from experienced open sourcerers (:mage:) wou
 
 ## Get involved
 
-If you think you can help in any of the [areas described above](#what-do-we-need) or in any of the many areas that we haven't yet thought of, then please [get in touch](#the-team) with the team.
+If you think you can help in any of the [areas described above](#what-do-we-need) or in any of the many areas that we haven't yet thought of, then please check our [Contributing Guidelines](CONTRIBUTING.md) and [get in touch](#the-team) with the team.
 
 Please note that it is very important to us that we maintain a positive and supportive environment for everyone who wants to participate.
 When you join us, we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
@@ -65,6 +65,7 @@ Other project management documentation includes:
 - [The project open canvas](project_mgmt/open_canvas.pdf)
 - [Our Ways of Working](WAYS_OF_WORKING.md)
 - [Our Code of Conduct](CODE_OF_CONDUCT.md)
+- [Our Contributing Guidelines](CONTRIBUTING.md)
 
 ## Respository Structure
 
