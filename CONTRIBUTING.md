@@ -12,7 +12,7 @@ Use your best judgment, and feel free to propose changes to this document in a p
 
 - [Code of Conduct](#code-of-conduct)
 - [Important Resources](#important-resources)
-- [communication Channels](#communication-channels)
+- [Communication Channels](#communication-channels)
 - [How to Submit Changes](#how-to-submit-changes)
 
 ---
