@@ -1,3 +1,6 @@
+# NOTE! This repo has been archived 13th September 2023
+This project is no longer active, please reach out to Research Engineering at The Alan Turing Institute if you have questions about it. This repo should not be confused with the currently active open source service area of REG
+
 # Open Source Service Area
 
 **_A service area sharing the knowledge and skills to participate in or grow an open project with the Turing research community._**
